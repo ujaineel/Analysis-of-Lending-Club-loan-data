@@ -12,6 +12,7 @@ library(rpart)
 library(randomForest)
 
 # Connecting to MySql Database.
+# Note: Database not available anymore.
 con <- dbConnect(MySQL(),
                  user = 'root',
                  password = '',
