@@ -1,6 +1,4 @@
-#Proj3
 #Jaineel Upadhyay
-#CMSC 491
 
 library(RMySQL)
 library(ggplot2)
